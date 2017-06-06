@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.home.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_division"
+        android:orderInCategory="100"
+        android:title="@string/action_division"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_brigade"
+        android:orderInCategory="100"
+        android:title="@string/action_brigade"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_regiment"
+        android:orderInCategory="100"
+        android:title="@string/action_regiment"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_battalion"
+        android:orderInCategory="100"
+        android:title="@string/action_battalion"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_company"
+        android:orderInCategory="100"
+        android:title="@string/action_company"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_platoon"
+        android:orderInCategory="100"
+        android:title="@string/action_platoon"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_division">Дивизия</string>
+    <string name="action_brigade">Бригада</string>
+    <string name="action_regiment">Полк</string>
+    <string name="action_battalion">Батальон</string>
+    <string name="action_company">Рота</string>
+    <string name="action_platoon">Взвод</string>
+    <string name="killed">Убить солдата</string>
+    <string name="message">Солдат убит</string>
+    <string name="leader">Командир</string>
+    <string name="return_db">Обновить базу данных</string>
+</resources>
